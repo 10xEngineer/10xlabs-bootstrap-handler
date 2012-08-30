@@ -1,0 +1,1 @@
+require "tenxlabs/chef/handlers/version"
