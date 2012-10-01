@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = TenxLabs::Chef::Handlers::VERSION
 
-  gem.add_dependency "microcloud", "~> 0.1.1"
+  gem.add_dependency "microcloud", ">= 0.1.1"
 end
